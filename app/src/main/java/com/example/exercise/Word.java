@@ -1,8 +1,6 @@
 package com.example.exercise;
 
 
-import android.content.Context;
-
 public class Word {
 
     private String mrepetion;
